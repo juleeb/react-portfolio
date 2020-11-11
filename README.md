@@ -28,4 +28,4 @@ Local Usage:
 
 Deployed Link:
 
-https://juleeb.github.io/react_portfolio/
+https://juleeb.github.io/react-portfolio/

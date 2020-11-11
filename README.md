@@ -1,4 +1,4 @@
-# react_portfolio
+# react-portfolio
 
 About the project:
 
